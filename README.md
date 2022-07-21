@@ -28,6 +28,6 @@
 
 [tf.data: A Machine Learning Data Processing Framework (2021)](https://arxiv.org/abs/2101.12127)
 
-[TensorFlow: A system for large-scale machine learning (2016)(https://arxiv.org/abs/1605.08695)
+[TensorFlow: A system for large-scale machine learning (2016)](https://arxiv.org/abs/1605.08695)
 
 
