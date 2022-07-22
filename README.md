@@ -2,7 +2,8 @@
 
 ## Notebooks
 
-* [tf.train, TFRecord material](/tf_record_tftrain)
+* [Exploring basics of TFRecord and tf.train.Example](/tf_record_tftrain/nb_001_tfrecord_tftrain.ipynb)
+* [Tests on tf.train.Feature data types](/tf_record_tftrain/nb_002_tftrainFeature_scalars.ipynb)
 
 ---
 
