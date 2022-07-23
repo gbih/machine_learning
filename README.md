@@ -1,11 +1,17 @@
 # Notes about various data science, machine-learning, deep-learning APIs 
 
+
 ## Notebooks
 
-* [Exploring basics of TFRecord and tf.train.Example](/tf_record_tftrain/nb_001_tfrecord_tftrain.ipynb)
-* [Tests on tf.train.Feature data types (scalar inputs)](/tf_record_tftrain/nb_002_tftrainFeature_scalars.ipynb)
-* [Tests on tf.train.Feature data types (non-scalar inputs)](/tf_record_tftrain/nb_003_tftrainFeature_nonscalars.ipynb)
 
+Reference, Guides, Tutorials:
+
+* [TFRecord, tf.train.Example](/tf_record_tftrain/)
+
+
+Book Material:
+
+* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](/book_hands_on)
 
 ---
 
