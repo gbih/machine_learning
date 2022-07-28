@@ -13,10 +13,8 @@ Book Material:
 
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](/book_hands_on)
 	- Excellent foundation for both Scikit-Learn and Deep Learning, probably the best single resource there is.
-
 * [Building Machine Learning Pipelines: Automating Model Life Cycles with TensorFlow](/book_building_ml_pipelines)
 	- Good introduction to TFX, though a bit behind the latest API versions.
-
 * [Bayesian Methods for Hackers](/book_probablistic_programming)
 	- Great introduction to probabilistic programming, especially the Bayesian approach.
 
