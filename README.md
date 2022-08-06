@@ -8,7 +8,7 @@ Reference, Guides, Tutorials:
 
 * [TFRecord, tf.train.Example](/tf_record_tftrain/)
 * [tf.Transform API](/tf_transform)
-
+* [TensorFlow Serving](/tf_server)
 
 Book Material:
 
