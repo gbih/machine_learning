@@ -4,6 +4,7 @@
     - Using Docker, subprocess module, prebuilt Half Plus Two model, and HTTP requests-logging with TensorFlow Serving.
 
 * [MNIST CNN Model](02_tfserver_mnist.ipynb)
-    - Using Docker, subprocess module, prebuilt Half Plus Two model, and HTTP requests-logging with TensorFlow Serving.
+    - Using Docker, subprocess module, trained / saved / loaded MNIST model, and HTTP requests-logging with TensorFlow Serving.
 
 * [MNIST CNN Model on Colab]()
+    - Using subprocess module, trained / saved / loaded MNIST model with TensorFlow Serving on Colab.
