@@ -6,5 +6,5 @@
 * [MNIST CNN Model](02_tfserver_mnist.ipynb)
     - Using Docker, subprocess module, trained / saved / loaded MNIST model, and HTTP requests-logging with TensorFlow Serving.
 
-* [MNIST CNN Model on Colab]()
+* [MNIST CNN Model on Colab](03_tfserver_mnist_colab.ipynb)
     - Using subprocess module, trained / saved / loaded MNIST model with TensorFlow Serving on Colab.
