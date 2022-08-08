@@ -8,3 +8,6 @@
 
 * [MNIST CNN Model on Colab](03_tfserver_mnist_colab.ipynb)
     - Using subprocess module, trained / saved / loaded MNIST model with TensorFlow Serving on Colab.
+
+* [TFS Container-related files](04_docker_container_info.ipynb)
+    -  Dockerfile and tf_serving_entrypoint.sh used by TensorFlow Serving container.
