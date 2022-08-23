@@ -4,7 +4,7 @@ Create a TFX pipeline via CLI + tfx template
 
 ## Step 1: Create templates
 
-Edit `contants.py`
+Edit `constants.py`
 
 Run `python create_template.py`
 
