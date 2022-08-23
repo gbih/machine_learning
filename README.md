@@ -6,9 +6,12 @@
 
 Reference, Guides, Tutorials:
 
-* [TFRecord, tf.train.Example](/tf_record_tftrain/)
+* [TensorFlow Extended (TFX)](/tfx)
+* [TFRecord, tf.train.Example](/tf_record_tftrain)
 * [tf.Transform API](/tf_transform)
 * [TensorFlow Serving](/tf_server)
+* [TensorFlow Probability](tf_probability)
+
 
 Book Material:
 
@@ -23,6 +26,8 @@ Book Material:
 
 ## Useful papers
 
+
+[Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/abs/2205.02302)
 
 [Challenges in Deploying Machine Learning: a Survey of Case Studies, v3 (2022)](https://arxiv.org/abs/2011.09926)
 
