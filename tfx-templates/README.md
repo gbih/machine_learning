@@ -2,7 +2,8 @@
 
 **Using the TFX CLI tool**
 
-* [Create a TFX pipeline using tfx template](template_orchestrator_beam.ipynb)
+* [Create a TFX pipeline via notebook + tfx template](notebook-template)
+* [Create a TFX pipeline via CLI + tfx template](python-template)
 
 ---
 
